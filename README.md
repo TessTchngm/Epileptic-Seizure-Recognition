@@ -1,2 +1,2 @@
-# Epileptic-Seizure-Recognition
- Improving Random Forest Model with PCA and Clustering
+# Epileptic-Seizure-Recognition 🫀💗
+This project focuses on improving the Random Forest model's performance through Principal Component Analysis (PCA) and Clustering techniques. Exploring various dimensions, PCA was applied to reduce multicollinearity and dimensionality. Clustering, using K-means and Hierarchical clustering, was employed to enhance the model further. The F1-score improved from 96.7935% to 99.7831% and 100% respectively. Further steps for improvement, such as hyperparameter tuning, ensemble models, and combining PCA with clustering, are suggested.
